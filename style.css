@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas {
+    border: 1px solid black;
+    background-image: url(img/Img-fe.png);
+}
+
+.btn,
+input {
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+}
